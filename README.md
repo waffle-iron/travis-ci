@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mavaze/travis-ci.png?label=ready&title=Ready)](https://waffle.io/mavaze/travis-ci?utm_source=badge)
 # travis-ci
 
 # Build Status
